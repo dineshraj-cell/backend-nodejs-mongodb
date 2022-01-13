@@ -1,0 +1,30 @@
+{
+  "name": "mongo-explorer",
+  "version": "1.0.0",
+  "description": "An application for demonstrating mongo and nodejs connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshraj-cell/backend-nodejs-mongodb.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "api",
+    "json"
+  ],
+  "author": "Dineshraj Gunasekaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshraj-cell/backend-nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/dineshraj-cell/backend-nodejs-mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
